@@ -75,7 +75,7 @@ body {
 }
             /* ABOUT PAGE */
 #about {
-  background-image: url(/img/pastel.jpg);
+  background-image: url(/alexcfurtuna.github.io/img/pastel.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
@@ -141,13 +141,13 @@ body {
   padding-top: 150px;
 }
 #work1 {
-  background-image: url(/img/work/work-one.jpg);
+  background-image: url(/alexcfurtuna.github.io/img/work/work-one.jpg);
 }
 #work2 {
-  background-image: url(/img/work/work-two.jpg);
+  background-image: url(/alexcfurtuna.github.io/img/work/work-two.jpg);
 }
 #work3 {
-  background-image: url(/img/work/work-three.jpg);
+  background-image: url(/alexcfurtuna.github.io/img/work/work-three.jpg);
   margin-bottom: 20px;
 }
 .work-item h1 {
@@ -269,7 +269,7 @@ body {
 }
                 /*CONTACT PAGE*/
 #contact {
-  background-image:url(/img/telephone.jpg);
+  background-image:url(/alexcfurtuna.github.io/img/telephone.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
